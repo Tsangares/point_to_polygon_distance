@@ -1,0 +1,8 @@
+*~
+.env
+env
+.venv
+__pycache__
+data/dist/*
+data/raw/*.csv
+src/__pycache__
