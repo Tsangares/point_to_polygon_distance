@@ -3,7 +3,8 @@
 env
 .venv
 __pycache__
-data/dist/*
+data/dist/*.csv
+data/dist/*.parquet
 data/raw/*.csv
 src/__pycache__
 src/testing.py
